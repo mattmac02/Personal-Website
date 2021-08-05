@@ -1,8 +1,3 @@
-%%MNTC313 A11 Starter Code%%
-
-%%Please DO NOT change the user input format
-%%It has been formatted to work properly with the Octave Engine
-
 clc
 %user inputs for integration bounds
 a = input('Enter a:');
